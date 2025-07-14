@@ -1,0 +1,28 @@
+body{
+    background-color: #E8EAF6; 
+}
+a{
+    text-decoration: none;
+}
+/* header */
+.nav_case{
+    border: 1px solid rgb(171, 171, 171);
+    border-radius: 16px;
+}
+.nav_case:hover{
+    background-color: #7986CB;
+    color: white;
+    border: 1px solid #4a58a1;
+}
+.case_index{
+    background-color: white;
+    margin: auto;
+}
+/* index */
+.sub{
+    margin-left: 20%;
+}
+.sin{
+    background: linear-gradient(to right, #7788df,#99a6e7, #c8d0f9);
+    margin-left: 40%;
+}
